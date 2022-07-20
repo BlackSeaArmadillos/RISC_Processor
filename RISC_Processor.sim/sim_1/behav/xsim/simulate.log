@@ -1,0 +1,26 @@
+Time resolution is 1 ps
+Stopped at time : 62 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/execution.v" Line 149
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/execution.v" Line 142
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 433
+new_read_set[`C_SIZE-1:0] = 00000000000000000000000000000000000000000
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 433
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 527
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 544
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 547
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 548
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 549
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 550
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 551
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 552
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 554
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 433
+new_read_set[`C_SIZE-1:0] = 00000000000000000000000000000000000000000
+Stopped at time : 74 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/cache_controller.v" Line 433
+Stopped at time : 78 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/set_assoc_cache.v" Line 122
+new_read_set[`C_SIZE-1:0] = 00000000000000000000000000000000000000000
+Stopped at time : 82 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/set_assoc_cache.v" Line 122
+Stopped at time : 86 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/set_assoc_cache.v" Line 122
+Stopped at time : 90 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/set_assoc_cache.v" Line 122
+Stopped at time : 94 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/set_assoc_cache.v" Line 122
+Stopped at time : 98 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/RISC_Processor/RISC_Processor/RISC_Processor.srcs/sources_1/imports/Design Files/set_assoc_cache.v" Line 122
+$stop called at time : 152 ns : File "C:/Users/PaulF/Desktop/Projects si ckt-uri/FPGA Projects/Vivado Projects/Testbench/risc_processor_tb.v" Line 143
